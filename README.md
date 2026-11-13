@@ -3,7 +3,6 @@
 **Assignment 1: Client-side Web Application**
 **Student:** [Your Name], Roll No. [Your Roll No.]
 **Assigned idea:** #34, Computer Lab Seat Finder
-**Extra rule or data variant:** None assigned
 
 A responsive single-page web app that helps a student find a free computer lab seat between classes. Students can filter labs by accessible seats, GPU, and printer, hide labs with outdated occupancy data, see the total free seats, and update a lab's occupancy through a validated form.
 
