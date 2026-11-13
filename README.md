@@ -1,7 +1,7 @@
 # Computer Lab Seat Finder
 
 **Assignment 1: Client-side Web Application**
-**Student:** [Your Name], Roll No. [Your Roll No.]
+**Student:** Amna Ahmed, CMS ID: 518985
 **Assigned idea:** #34, Computer Lab Seat Finder
 
 A responsive single-page web app that helps a student find a free computer lab seat between classes. Students can filter labs by accessible seats, GPU, and printer, hide labs with outdated occupancy data, see the total free seats, and update a lab's occupancy through a validated form.
